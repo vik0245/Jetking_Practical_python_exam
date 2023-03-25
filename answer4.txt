@@ -1,0 +1,6 @@
+Program to put Even and Odd elements in a list into two different lists.
+1- First Open visual studio code then create a new python file answer4.py
+2- type the Program to put Even and Odd elements in a list into two different lists.
+3- then save file.
+4- Then run program at terminal python answer4.py
+5- Then output show.  

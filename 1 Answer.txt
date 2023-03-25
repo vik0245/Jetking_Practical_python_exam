@@ -1,0 +1,4 @@
+In python, statements are executed in a sequentail manner. if our code is made up of several lines of code, then execution will start at the first line, followed by the second, and so on. However, there will be case where we may want a block of code to execute several times until a condition is met.if the condition is TRUE, then the program will execute the code block.It only breaks out of the loop or stops executing the code block if the condition is FALSE, and in this case, the program will continue execution sequentially. 
+Python has two types of loops-
+1- for loop
+2- while loop  

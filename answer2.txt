@@ -1,0 +1,6 @@
+The Following program uses a nested-for loop to display multification tables from 1-10.
+1- First Open visual studio code then create a new python file answer2.py
+2- type the multiplication table using nested for loop program.
+3- then save file.
+4- Then run program at terminal python answer2.py
+5- Then output show.  

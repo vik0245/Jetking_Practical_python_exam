@@ -1,0 +1,6 @@
+Program to find the second largest number in a list.
+1- First Open visual studio code then create a new python file answer3.py
+2- type the Program to find the second largest number in a list..
+3- then save file.
+4- Then run program at terminal python answer3.py
+5- Then output show.  
